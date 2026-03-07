@@ -1,15 +1,15 @@
 {
   "student": {
-    "name": "Your Name",
+    "name": "Md Kaif Ansari",
     "bio": "Google Summer of Code Contributor",
-    "avatar": "https://github.com/yourusername.png",
-    "github": "https://github.com/yourusername",
-    "email": "your.email@example.com",
-    "blog": "https://yourblog.dev",
-    "linkedin": "https://linkedin.com/in/yourprofile"
+    "avatar": "https://github.com/mdkaifansari04.png",
+    "github": "https://github.com/mdkaifansari04",
+    "email": "amdkaif843@gmail.com",
+    "blog": "https://dev.to/mdkaifansari04",
+    "linkedin": "https://www.linkedin.com/in/md-kaif-ansari/"
   },
   "project": {
-    "title": "Your GSoC Project Title",
+    "title": "<not yet assigned>",
     "description": "A brief description of your GSoC project and what you're working on. Explain the problem you're solving and the impact of your work.",
     "organization": "Your Organization",
     "timeline": "May 2026 - September 2026",
